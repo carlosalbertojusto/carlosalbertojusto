@@ -1,7 +1,7 @@
 ### Hi, I'm Carlos Alberto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-🎓 Graduating in Information Systems.
-🚀 Currently i'm studying to become a fullstack developer.
+- 🎓 Graduating in Information Systems.
+- 🚀 Currently i'm studying to become a fullstack developer.
 
 #### I'm focusing in
 🌎 Front-end Web with JavaScript 
