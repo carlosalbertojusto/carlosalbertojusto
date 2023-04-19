@@ -4,8 +4,8 @@
 - 🚀 Currently i'm studying to become a fullstack developer.
 
 #### I'm focusing in
-- 🌎 Front-end Web with JavaScript
-- 📡 Back-end with Nodejs  
+- 🌎 Front-end Web with ReactJS
+- 📡 Back-end with NodeJs  
 - 🛠️ Typescript  
 - 🧰 And more...  
 
