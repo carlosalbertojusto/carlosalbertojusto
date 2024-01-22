@@ -1,12 +1,12 @@
 ### Hi, I'm Carlos Alberto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 - 🎓 Bachelor in Information Systems.
-- 🚀 Currently i'm studying to become a fullstack developer.
+- 🚀 Currently i'm a fullstack developer.
 
 #### I'm focusing in
 - 🌎 Front-end Web with ReactJS
 - 📡 Back-end with NodeJs  
-- 🛠️ Typescript  
+- 🛠️ Typescript
 - 🧰 And more...  
 
 
